@@ -32,3 +32,9 @@ variable "region" {
   type        = string
 
 }
+
+variable "encryption_type" {
+  description = "value"
+  type        = string
+
+}
